@@ -20,7 +20,7 @@
 											<?php echo base_url().'assets/css/jquery.dataTables.min.css'?>" rel="stylesheet">
 											<link href="
 												<?php echo base_url().'assets/dist/css/bootstrap-select.css'?>" rel="stylesheet">
-												<title>Welcome to CodeIgniter</title>
+												<title>Aplikasi Penjualan Pt Xyz</title>
 												<style type="text/css">
          ::selection{ background-color: #E13300; color: white; }
          ::moz-selection{ background-color: #E13300; color: white; }

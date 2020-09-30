@@ -14,7 +14,7 @@
 	<link href="<?php echo base_url().'assets/css/dataTables.bootstrap.min.css'?>" rel="stylesheet">
 	<link href="<?php echo base_url().'assets/css/jquery.dataTables.min.css'?>" rel="stylesheet">
 	<link href="<?php echo base_url().'assets/dist/css/bootstrap-select.css'?>" rel="stylesheet">
-	<title>Welcome to CodeIgniter</title>
+	<title>Aplikasi Penjualan Pt Xyz</title>
 
 	<style type="text/css">
 
