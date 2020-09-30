@@ -26,7 +26,7 @@
 
     <!-- Navigation -->
    <?php
-        $this->load->view('admin/menu');
+        $this->load->view('web/menuhome');
    ?>
 
     <!-- Page Content -->
@@ -1078,7 +1078,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo '2017';?> by M Fikri Setiadi</p>
+                    <p style="text-align:center;">Copyright &copy;<?php echo date('Y'); ?> by Cloud Dark</p>
                 </div>
             </div>
             <!-- /.row -->

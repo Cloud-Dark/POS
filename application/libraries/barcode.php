@@ -22,7 +22,7 @@ error_reporting(0);
 	* Reference : http://www.barcodeisland.com/symbolgy.phtml
 	*/
 	
-	class BARCODE
+	class Barcode
 	{
 		var $_encode;
 		var $_error;
