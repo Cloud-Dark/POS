@@ -46,3 +46,8 @@ Anda dapat mengubah Config Database file dengan configuration seperti ini pada c
 	   $db['default']['database'] = 'penjualan2';
 	   $db['default']['dbdriver'] = 'mysqli';
     ?>
+
+
+
+
+

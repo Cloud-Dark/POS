@@ -3,14 +3,9 @@
 ![](https://i.ibb.co/pyg87Zy/iconfinder-10-avatar-2754575-120521-Copy.png)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-**Daftar Isi**
-
-[TOCM]
-
-#Cloud Dark Pos
+# Cloud Dark Pos
 Beberapa fitur yang ada dalam aplikasi point of sale ini antara lain :
-##Feature
+## Feature
 - Pengaturan data barang
 - Manajemen data kategori
 - Manajemen user
@@ -30,13 +25,13 @@ Beberapa fitur yang ada dalam aplikasi point of sale ini antara lain :
 - Grafik penjualan per bulan
 - Grafik penjualan pertahun
 - Lokasi Toko
-##Config File
+## Config File
 Anda dapat mengubah Config file dengan configuration seperti ini pada config.php `Line 25` (Application/config.php).
 
     <?php
        $config['base_url'] = 'http://localhost/penjualan2/github';
     ?>
-##Database File
+## Database File
 Anda dapat mengubah Config Database file dengan configuration seperti ini pada config.php `Line 25` (Application/database.php).
 
     <?php
@@ -46,3 +41,8 @@ Anda dapat mengubah Config Database file dengan configuration seperti ini pada c
 	   $db['default']['database'] = 'penjualan2';
 	   $db['default']['dbdriver'] = 'mysqli';
     ?>
+
+
+
+
+
